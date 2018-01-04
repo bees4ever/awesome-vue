@@ -1305,6 +1305,7 @@ Tooltips / popovers
  - [v-dragged](https://github.com/zhanziyang/v-dragged) - Vue 2.x directive plugin for drag event detection.
  - [vue-esc](https://github.com/ianaya89/vue-esc) - Vue.js directive to add a document event listener on escape keyup.
  - [vue-global-events](https://github.com/shentao/vue-global-events/) – A component to handle global events (like shortcuts) using Vue’s event modifiers
+- [vue2-gesture](https://github.com/vuejs/awesome-vue) - Vue 2.x component for handling mobile touch events
 
 ### Responsive Design
 
